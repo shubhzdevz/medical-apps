@@ -9,10 +9,10 @@ import (
 	"github.com/hyperledger/fabric-chaincode-go/shim"
 	"github.com/hyperledger/fabric-chaincode-go/shimtest"
 	"github.com/spf13/viper"
-
-	"github.com/your-org/medical-records/chaincode"
-	"github.com/your-org/medical-records/handlers"
-	"github.com/your-org/medical-records/utils"
+	
+	"github.com/shubhzdevz/medical-apps/chaincode"
+	"github.com/shubhzdevz/medical-apps/handlers"
+	"github.com/shubhzdevz/medical-apps/utils"
 )
 
 func main() {
